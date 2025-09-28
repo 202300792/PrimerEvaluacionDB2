@@ -1,0 +1,5 @@
+db.clientes.drop()
+db.pedidos.drop()
+db.clientesVIP.drop()
+db.pedidosActivos.drop()
+db.pedidosRecientes.drop()
